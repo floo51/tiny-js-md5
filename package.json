@@ -1,7 +1,7 @@
 {
-    "name": "js-md5",
-    "version": "1.0.0",
-    "description": "Small footprint md5 crypto npm package from js-crypto",
+    "name": "tiny-js-md5",
+    "version": "0.9.0",
+    "description": "Tiny footprint md5 crypto npm package from js-crypto",
     "main": "js-crypto/md5.min.js",
     "repository": {
         "type": "git",
