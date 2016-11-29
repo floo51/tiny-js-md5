@@ -1,21 +1,21 @@
 {
-  "name": "tiny-js-md5",
-  "version": "1.0.0",
-  "description": "Tiny footprint md5 crypto npm package from js-crypto",
-  "main": "js-crypto/md5.min.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/floo51/js-md5.git"
-  },
-  "keywords": [
-    "md5",
-    "small",
-    "footprint",
-    "crypto"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/floo51/js-md5/issues"
-  },
-  "homepage": "https://github.com/floo51/js-md5#readme"
+    "name": "tiny-js-md5",
+    "version": "1.0.0",
+    "description": "Tiny footprint md5 crypto npm package from js-crypto",
+    "main": "js-crypto/md5-min.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/floo51/js-md5.git"
+    },
+    "keywords": [
+        "md5",
+        "small",
+        "footprint",
+        "crypto"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/floo51/js-md5/issues"
+    },
+    "homepage": "https://github.com/floo51/js-md5#readme"
 }
