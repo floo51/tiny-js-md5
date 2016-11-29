@@ -1,3 +1,5 @@
 js-crypto/*
 js-crypto/.*
-!js-crypto/md5-min.js
+makefile
+webpack.config.js
+index.js
