@@ -1,0 +1,3 @@
+js-crypto/*
+js-crypto/.*
+!js-crypto/md5-min.js
