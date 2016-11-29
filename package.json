@@ -20,6 +20,7 @@
   "homepage": "https://github.com/floo51/js-md5#readme",
   "devDependencies": {
     "exports-loader": "^0.6.3",
+    "imports-loader": "^0.6.5",
     "webpack": "^1.13.3"
   }
 }
